@@ -1,9 +1,10 @@
 {
 	"author": "AutoReiv",
+    "url": "http://www.bay12forums.com/smf/index.php?topic=152432.0",
 	"content_version": "0.3",
-	"df_max_version": "",
 	"df_min_version": "0.42.05",
-	"title": "AutoReiv 20x20",
+	"df_max_version": "",
+	"title": "AutoReiv 20x",
     "folder_prefix": "AutoReiv",
 	"tooltip": "A clean ASCII-like set that balances faithfulness to the original, while maintaing legibility, and still provides a unique aesthetic look to your game."
 }
